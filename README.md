@@ -1,7 +1,7 @@
 # C++ Notebooks
 
 ## Machine Epsilon (my first C++ notebook)
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nikolai3d/xeus-cling-binder-env.git/cpp-notebook?filepath=cpp%2Fmachine_epsilon.ipynb)  
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nikolai3d/xeus-cling-binder-env/master?filepath=cpp%2Fmachine_epsilon.ipynb)
 
 # Built on 
 ## A C++ (xeus-cling) computing environment for binder
