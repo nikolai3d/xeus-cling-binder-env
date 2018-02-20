@@ -1,6 +1,10 @@
-# A C++ (xeus-cling) computing environment for binder
+# C++ Notebooks
 
-[![Binder](https://beta.mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/nthiery/xeus-cling-binder-env/master?filepath=index.ipynb)
+## Machine Epsilon (my first C++ notebook)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/nikolai3d/xeus-cling-binder-env.git/cpp-notebook?filepath=cpp%2Fmachine_epsilon.ipynb)  
+
+# Built on 
+## A C++ (xeus-cling) computing environment for binder
 
 Have a repository full of Jupyter notebooks using the C++ 
 [xeus-cling](https://github.com/QuantStack/xeus-cling) interpreter?
@@ -10,3 +14,6 @@ in an executable environment, making your code immediately reproducible by anyon
 
 It can also be used in combination with [Thebe](https://github.com/minrk/thebelab)
 to turn C++ code snippets in static html pages into live cells.
+
+## Original Repository: 
+https://github.com/nthiery/xeus-cling-binder-env 
